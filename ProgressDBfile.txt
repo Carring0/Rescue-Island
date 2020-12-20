@@ -1,0 +1,129 @@
+8
+1
+Piet
+Jansen
+Piet Jansen
+m
+Action
+Eastbeach
+-400
+0
+None
+0
+0
+WalkRight.png
+FollowPlayer
+What is it sir?
+My cooking is delicious!
+2
+Sandra
+Selini
+Sandra Selini
+f
+Duty
+Passagebeach
+600
+0
+None
+0
+0
+StandSW.png
+Idle
+Good day again commander
+Well, I am still looking for the doctor.
+3
+Clarence
+Hottingen
+Clarence Hottingen
+m
+Action
+Eastbeach
+-400
+0
+None
+0
+0
+WalkRight.png
+FollowPlayer
+At your orders sir!
+No sign of any enemy on the island sir.
+4
+Yoko
+Masako
+Yoko Masako
+f
+Action
+Eastbeach
+-400
+0
+None
+0
+0
+WalkRight.png
+FollowPlayer
+Sir?
+I love vegetables!
+5
+Kyley
+Carring
+Kyley Carring
+f
+Duty
+Eastbeach
+1000
+0
+None
+0
+0
+StandSW.png
+Idle
+Hi John.
+No dear, it is very quiet around here.
+6
+Thari
+Langdon
+Thari Langdon
+f
+Action
+Passagebeach
+1100
+0
+None
+0
+0
+StandSW.png
+Idle
+Good day sir.
+I would like to go home now.
+7
+Jack
+Delaney
+Jack Delaney
+m
+Action
+Eastbeach
+-400
+0
+Eastbeach
+920
+200
+WalkRight.png
+FollowPlayer
+Good day sir.
+Do you know where Lillian is?
+8
+Jane
+Hopkins
+Jane Hopkins
+f
+Action
+Passagebeach
+900
+0
+None
+0
+0
+StandSW.png
+Idle
+Good day sir.
+I want to fly the Shockwave again.

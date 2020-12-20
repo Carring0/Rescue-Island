@@ -1,0 +1,129 @@
+8
+1
+Piet
+Jansen
+Piet Jansen
+m
+Action
+Westbeach
+220
+20
+None
+0
+0
+StandSE.png
+Idle
+Hm. Good day sir.
+Dinner will be ready soon sir.
+2
+Sandra
+Selini
+Sandra Selini
+f
+Duty
+Passagebeach
+600
+0
+None
+0
+0
+StandSW.png
+Idle
+Good day commander
+Well, I am looking for the doctor.
+3
+Clarence
+Hottingen
+Clarence Hottingen
+m
+Action
+Eastbeach
+800
+0
+None
+0
+0
+StandSW.png
+Idle
+At your orders sir!
+No sign of any enemy on the island sir.
+4
+Yoko
+Masako
+Yoko Masako
+f
+Action
+Westbeach
+1000
+150
+None
+0
+0
+StandSE.png
+Idle
+Sir?
+Yoko terrible speaking English I know sir!
+5
+Kyley
+Carring
+Kyley Carring
+f
+Duty
+Eastbeach
+1000
+50
+None
+0
+0
+StandSW.png
+Idle
+Hi John.
+No dear, it is very quiet around here.
+6
+Thari
+Langdon
+Thari Langdon
+f
+Action
+Passagebeach
+1100
+0
+None
+0
+0
+StandSW.png
+Idle
+Good day sir.
+This is a boring place, just sand around.
+7
+Jack
+Delaney
+Jack Delaney
+m
+Action
+Westbeach
+600
+0
+None
+0
+0
+StandSW.png
+Idle
+Good day sir.
+Do you mind if I smoke?
+8
+Jane
+Hopkins
+Jane Hopkins
+f
+Action
+Passagebeach
+900
+0
+None
+0
+0
+StandSW.png
+Idle
+Good day sir.
+I want to fly the Shockwave again.
